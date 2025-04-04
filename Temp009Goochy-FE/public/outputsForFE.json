@@ -1,9 +1,0 @@
-{
-  "AdminPhotosBucketName": "dev-temp009goochy-admin-photos-0affc3de2583",
-  "EnvironmentName": "DEV",
-  "UserPoolId": "us-east-1_BtJPh838w",
-  "UserPoolClientId": "59hbfb83ie0qlm8jl1tup4qdtr",
-  "PrimaryRegionName": "us-east-1",
-  "IdentityPoolId": "us-east-1:232f35d3-3785-4ede-bbc2-569237616c68",
-  "ApiEndpoint": "https://78dobx6gch.execute-api.eu-central-1.amazonaws.com/prod//DEV-"
-}

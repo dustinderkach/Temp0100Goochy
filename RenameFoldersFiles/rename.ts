@@ -10,9 +10,9 @@ import * as path from "path";
 
 const targetDir = "../../"; // Go up one directory from the current directory
 const replacements = [
-	{ search: "temp009goochy", replace: "temp009goochy" },
-	{ search: "temp009Goochy", replace: "temp009Goochy" },
-	{ search: "Temp009Goochy", replace: "Temp009Goochy" },
+	{ search: "temp010goochy", replace: "temp010goochy" },
+	{ search: "temp010Goochy", replace: "temp010Goochy" },
+	{ search: "Temp010Goochy", replace: "Temp010Goochy" },
 ];
 
 function renameRecursively(dir: string): void {
